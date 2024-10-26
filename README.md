@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1000&color=F5700A&center=true&vCenter=true&random=true&width=1100&height=100&lines=%3C+Hello+There+%F0%9F%91%8B%F0%9F%8F%BC%2C+It's+Jagjeevan+Here!+%2F%3E)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1000&color=F5700A&center=true&vCenter=true&random=true&width=1100&height=100&lines=%3C+Hi+There+%F0%9F%91%8B%F0%9F%8F%BC%2C+It's+Jagjeevan+Here!+%2F%3E)
 <br><br><br><br>
 Currently, Working on my skills....
 <!--
