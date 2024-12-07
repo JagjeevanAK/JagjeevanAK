@@ -11,6 +11,21 @@
 - 📫 How to reach me: [jagjeevandev97@gmail.com](mailto:jagjeevandev97@gmail.com)
   <!-- - 💬 Ask me about ... -->
 
+
+## My GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
 ## My GitHub Stats
 
 ![Jagjeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical)
