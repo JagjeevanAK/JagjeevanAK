@@ -1,9 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1000&color=F5700A&center=true&vCenter=true&random=true&width=1100&height=100&lines=%3C+Hello+World+%F0%9F%91%8B%F0%9F%8F%BC%2C+It's+Jagjeevan+Here!+%2F%3E)
 <br><br><br><br>
-Currently, Working on my skills.... 
-# Hi there, I'm $$USERNAME$$! 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/$$USERNAME$$?style=social)](https://twitter.com/$$USERNAME$$)
+<!-- Currently, Working on my skills.... -->
 
 ## About Me
 
@@ -16,7 +13,7 @@ Currently, Working on my skills....
 
 ## My GitHub Stats
 
-![$$USERNAME$$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=$$USERNAME$$&show_icons=true&theme=radical)
+![Jagjeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=$$USERNAME$$&show_icons=true&theme=radical)
 
 ## Top Languages
 
