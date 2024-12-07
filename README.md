@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Robotics, System design and Machine Learning.
 - 👯 I’m looking to collaborate on Robotics and Deep learning.
 - 🤔 I’m looking for help with Robotics.
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [jagjeevandev97@gmail.com](mailto:jagjeevandev97@gmail.com)
+  <!-- - 💬 Ask me about ... -->
 
 ## My GitHub Stats
 
