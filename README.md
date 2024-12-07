@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Robotics and Deep learning.
 - 🤔 I’m looking for help with Robotics.
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [$$EMAIL$$](mailto:jagjeevandev97@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:jagjeevandev97@gmail.com)
 
 ## My GitHub Stats
 
