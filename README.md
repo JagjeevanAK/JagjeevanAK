@@ -14,7 +14,7 @@
 
 ## My GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" style="width: 48%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;">
 </div>
