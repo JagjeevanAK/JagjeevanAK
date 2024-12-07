@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" height="200">
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages"height="200">
 </p>
 
