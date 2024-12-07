@@ -14,10 +14,11 @@
 
 ## My GitHub Stats
 
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" width="45%">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages" width="45%">
+</p>
 
 <!--
 **JagjeevanAK/JagjeevanAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
