@@ -16,9 +16,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=radical" alt="Jagjeevan's Streak Stats" height="200" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" height="200" width="45%">
-  <!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages"height="200" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" height="200" width='45%'>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages"height="200" width='45%'>
 </p>
 
 <!--
