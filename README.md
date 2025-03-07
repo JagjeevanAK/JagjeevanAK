@@ -5,9 +5,9 @@
 ## About Me
 
 - 🔭 I’m currently working on Kubernetes.
-- 🌱 I’m currently learning Robotics, System design and Machine Learning.
-- 👯 I’m looking to collaborate on Robotics and Deep learning.
-- 🤔 I’m looking for help with Robotics.
+- 🌱 I’m currently learning System design and Machine Learning.
+- 👯 I’m looking to collaborate on DevOps and Deep learning.
+- 🤔 I’m looking for help with DevOps.
 - 📫 How to reach me: [jagjeevandev97@gmail.com](mailto:jagjeevandev97@gmail.com)
   <!-- - 💬 Ask me about ... -->
 
