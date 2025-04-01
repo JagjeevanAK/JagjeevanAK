@@ -8,9 +8,21 @@
 - 🌱 I’m currently learning System design and Machine Learning.
 - 👯 I’m looking to collaborate on DevOps and Deep learning.
 - 🤔 I’m looking for help with DevOps.
-- 📫 How to reach me: [jagjeevandev97@gmail.com](mailto:jagjeevandev97@gmail.com)
+- 📫 How to reach me: **jagjeevandev97@gmail.com**
   <!-- - 💬 Ask me about ... -->
 
+
+### 📊 Power Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=highcontrast" alt="Jagjeevan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+<!--
 
 ## My GitHub Stats
 
@@ -19,7 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages"height="200" width='45%'>
 </p>
 
-<!--
 **JagjeevanAK/JagjeevanAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
