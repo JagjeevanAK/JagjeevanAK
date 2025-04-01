@@ -16,11 +16,8 @@
 ### 📊 Power Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=gruvbox" alt="Jagjeevan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true" alt="Jagjeevan's GitHub Stats" style="display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=gruvbox&hide_border=true&background=FFFFFF00" alt="GitHub Streak" style="display: inline-block;" />
 </p>
 
 <!--
