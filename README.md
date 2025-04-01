@@ -1,4 +1,4 @@
-![SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1000&color=FABD2F&center=true&vCenter=true&random=true&width=1100&height=100&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BC,+I'm+Jagjeevan+Here!;DevOps+and+Backend+Engineer;Building+Robust+AI+-+Powered+Systems)
+![SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1200&color=FABD2F&center=true&vCenter=true&width=1100&height=100&lines=++Hello+World+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Jagjeevan+Here!++;++DevOps+and+Backend+Engineer++;++Building+Robust+AI-+Powered+Systems++)
 
 <br><br>
 <!-- Currently, Working on my skills.... -->
