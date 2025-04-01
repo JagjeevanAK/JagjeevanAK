@@ -15,11 +15,11 @@
 ### 📊 Power Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=highcontrast" alt="Jagjeevan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=gruvbox-duo" alt="Jagjeevan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=gruvbox-duo" alt="GitHub Streak" />
 </p>
 
 <!--
