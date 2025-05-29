@@ -17,7 +17,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagjeevanAK&bg_color=00000000&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true" alt="Jagjeevan's GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagjeevanAK&theme=gruvbox&bg_color=00000000" alt="Most Committed Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=gruvbox&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
 </div>
