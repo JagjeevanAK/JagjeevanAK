@@ -1,11 +1,9 @@
-import Footer from "@/components/footer";
+import Underdev from "@/components/dev";
 
 export default function Home() {
   return (
-    <div className="grid " >
-      <div>
-        <Footer />
-      </div>
+    <div>
+      <Underdev />
     </div>
   );
 }
