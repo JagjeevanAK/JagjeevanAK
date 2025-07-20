@@ -2,5 +2,3 @@
 
 
 21, engineer. A CS Neard who likes to bulid and trying to explore DevOps, Backend, AI & ML and other interesting tech.
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagjeevanAK&bg_color=00000000&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
