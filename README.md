@@ -4,26 +4,3 @@
 21, engineer. A CS Neard who likes to bulid and trying to explore DevOps, Backend, AI & ML and other interesting tech.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagjeevanAK&bg_color=00000000&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
-
-<!--
-
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JagjeevanAK&show_icons=true&theme=radical" alt="Jagjeevan's GitHub Stats" height="200" width='45%'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeevanAK&layout=compact&theme=radical" alt="Top Languages"height="200" width='45%'>
-</p>
-
-**JagjeevanAK/JagjeevanAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
