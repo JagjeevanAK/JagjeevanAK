@@ -5,21 +5,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Kubernetes.
-- 🌱 I’m currently learning System design and Machine Learning.
-- 👯 I’m looking to collaborate on DevOps and Deep learning.
-- 🤔 I’m looking for help with DevOps.
-- 📫 How to reach me: **jagjeevandev97@gmail.com**
-  <!-- - 💬 Ask me about ... -->
+21, engineer. A CS Neard trying to explore DevOps, AI & ML and other interesting tech.
 
-
-### 📊 Power Statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagjeevanAK&bg_color=00000000&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagjeevanAK&theme=gruvbox&bg_color=00000000" alt="Most Committed Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagjeevanAK&theme=gruvbox&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagjeevanAK&bg_color=00000000&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
 
 <!--
 
