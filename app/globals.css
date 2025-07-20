@@ -24,3 +24,10 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.circular-image {
+  border-radius: 50%;
+  background: transparent;
+  filter: brightness(1.1) contrast(1.1);
+  /* Adjust these values to fine-tune the white removal */
+}
