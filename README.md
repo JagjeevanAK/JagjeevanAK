@@ -5,6 +5,7 @@ Engineer. A CS Nerd who enjoys building and exploring DevOps, Backend, AI, and M
 ### AI & ML Projects
 - [open-rabbit](https://github.com/JagjeevanAK/open-rabbit) - Open-source code rabbit implementation (building). A modern AI-powered coding assistant.
 - [Appwit](https://github.com/JagjeevanAK/Appwit) - Open source alternative to Lovable. Build beautiful applications with an intuitive interface.
+- [Manim Studio](https://github.com/JagjeevanAK/manim-generator-studio) - A visual authoring tool that helps you design, preview, and export beautiful Manim animation scenes as ready-to-run Python code.
 - [CruxML](https://github.com/JagjeevanAK/CruxML)  - A minified Machine Learning and Deep Learning Framework/Library built from scratch in Python.
 - [Attention-Is-All-You-Need](https://github.com/JagjeevanAK/Attention-Is-All-You-Need) - Transformer architecture implementation. Transformers are the new blood for Neural Networks.
 - [Speech-emotion-detection](https://github.com/JagjeevanAK/Speech-emotion-detection) - AI-powered system that detects emotions from speech using deep learning with a beautiful web interface for real-time emotion recognition.
